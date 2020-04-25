@@ -1,7 +1,7 @@
 {
-  "name": "clean-authentication-flow",
+  "name": "expense_tracker_app",
   "version": "1.0.0",
-  "description": "architectural approach to creating a sign in flow",
+  "description": "An app to track expenses and help financial planning ",
   "main": "dist/index.js",
   "scripts": {
     "clean": "rimraf dist/*",
