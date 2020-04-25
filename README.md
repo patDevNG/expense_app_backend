@@ -1,3 +1,3 @@
-# clean-authentication-flow
-An architectural approach to creating a signUp/SignIn flow API
+# Expense Tracker
+An expense tracking app that will help you plan your finances better
 
